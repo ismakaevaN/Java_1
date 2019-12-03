@@ -10,7 +10,7 @@ public class HelloJava {
 		// задание 2
 		boolean result2 = isSumInRange(7, 9);
 		System.out.println(result2);
-		result2 = isSumInRange(2, 43);
+		result2 = isSumInRange(2, 42);
 		System.out.println(result2);
 		// задание 3
 		System.out.println("Negative method:");
